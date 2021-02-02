@@ -1,0 +1,48 @@
+id,type,domain,enabled,date_added,date_modified,comment
+1,1,ad.doubleclick.net,1,1592536862,1592536862,"Migrated from /etc/pihole/blacklist.txt"
+2,1,web.resy.com,1,1592536862,1592536862,"Migrated from /etc/pihole/blacklist.txt"
+3,1,internal.airbnb.com,1,1592536862,1592536862,"Migrated from /etc/pihole/blacklist.txt"
+4,1,news.iadsdk.apple.com,1,1592536862,1592536862,"Migrated from /etc/pihole/blacklist.txt"
+6,3,(^|\.)online-matrix\.net$,1,1592536862,1592536862,"Migrated from /etc/pihole/regex.list"
+8,1,s3-iad-2.cf.hls.row.aiv-cdn.net,1,1596982840,1612141039,
+9,1,imasdk.googleapis.com,1,1596986901,1596986901,
+11,3,(\.|^)collab\.apps\.mil$,1,1597008772,1597008772,
+13,3,a2z.com,1,1597014133,1597014133,
+15,3,(\.|^)app-measurement\.com$,1,1600987779,1609076301,
+18,1,nonexistingsubdomxin6a1e1a4c.ebizintapps.uchealth.org,1,1601405484,1601405484,"Added from Query Log"
+20,3,analytics.ma.tune.com,1,1601551268,1601551268,
+22,3,ebizintapps.uchealth.org,1,1601551473,1601551473,
+23,3,lt501.tritondigital.com,1,1603193288,1603193288,
+24,3,doh.xfinity.com,1,1603857669,1603857669,
+25,3,doh2.gslb2.xfinity.com,1,1603857940,1603857940,
+29,3,in.appcenter.ms,1,1604877893,1604877893,
+30,3,launchdarkly.com,1,1604890080,1604890121,"Added from Query Log"
+32,3,uplynk.com,1,1605106805,1605106805,
+33,1,cus02-breeziest-in.cloudapp.net,1,1607086166,1607086166,
+34,3,gate.hockeyapp.net,1,1608420848,1608437794,
+37,3,(\.|^)https://app-measurement\.com/sdk-exp$,1,1608610879,1608610879,
+39,0,wallet-api.urbanairship.com,1,1608661582,1608661582,
+40,3,"^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]",1,1609211454,1609211454,
+41,3,^(.+[_.-])?telemetry[_.-],1,1609211502,1609211701,
+42,3,^analytics?[_.-],1,1609211653,1609211735,
+43,3,^stat(s|istics)?[0-9]*[_.-],1,1609211663,1609211778,
+44,3,^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-],1,1609211681,1609211681,
+46,3,^adim(age|g)s?[0-9]*[_.-],1,1609211709,1609211709,
+47,3,^adtrack(er|ing)?[0-9]*[_.-],1,1609211716,1609211716,
+48,3,^advert(s|is(ing|ements?))?[0-9]*[_.-],1,1609211722,1609211722,
+49,3,^aff(iliat(es?|ion))?[_.-],1,1609211728,1609211728,
+51,3,^banners?[_.-],1,1609211744,1609211744,
+52,3,^beacons?[0-9]*[_.-],1,1609211751,1609211751,
+53,3,^count(ers?)?[0-9]*[_.-],1,1609211757,1609211757,
+54,3,^mads\.,1,1609211762,1609211762,
+55,3,^pixels?[-.],1,1609211771,1609211771,
+56,3,(\.|^)usage\.readdle\.com$,1,1609741834,1609741834,
+57,1,graph.facebook.com,1,1609742010,1609742010,
+58,1,fpwkvriugw,1,1610829189,1610829189,
+59,1,hp34c22d,1,1610829220,1610829220,
+60,1,kirjjuunzr,1,1610829231,1610829231,
+61,1,warranty.svc.ui.com,1,1611204452,1611204452,
+62,1,vast-west.iad-apple.com.akadns.net,1,1611507393,1611507393,
+63,1,www.netgear.com,1,1611783468,1611783662,
+64,1,mamwelsprodcloudwus.cloudapp.net,1,1612073684,1612073684,
+65,0,s3-iad-2.cf.hls.row.aiv-cdn.net,1,1612141039,1612141039,
